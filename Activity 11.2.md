@@ -5,7 +5,7 @@ Set the corresponding values to a list of lists of the courses taken during that
 
     [Four digit subject, Course Number, Section, Title].
 
-and the transcript is a list of courses.
+and each semester is a list of courses.
 
 For Fall14 [CSCI,156,01,'Computer Science I'] would be one of the courses in your list. Don't worry about the accuracy of
 the section data, no one is going to compare your transcript with your program. Make up at least two years worth of data.
